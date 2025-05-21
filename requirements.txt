@@ -47,7 +47,6 @@ locket==1.0.0
 matplotlib==3.8.4
 matplotlib-inline==0.1.7
 matplotlib-scalebar==0.9.0
-mender @ file:///Users/guluthefish/2025/100-education/110-tu-delft/dsait4045-mlb/dsait4045-group-5-mender/pysodb
 more-itertools==10.7.0
 multianndata==0.0.4
 multidict==6.4.4
